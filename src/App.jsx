@@ -1,17 +1,15 @@
-
-import Navigation from './customer/components/Navigation'
+import Navigation from './customer/components/Navigation';
+import HomePage from './customer/components/pages/HomePage';
 
 function App() {
- 
-
   return (
     <>
-      <Navigation/>
+      <Navigation />
       <div>
-        Home
-   </div>
+        <HomePage />
+      </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
