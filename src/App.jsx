@@ -4,13 +4,14 @@ import HomePage from './customer/components/pages/HomePage';
 
 function App() {
   return (
-    <>
+    <div>
       <Navigation />
       <div>
         <HomePage />
       </div>
-      <Footer/>
-    </>
+
+      <Footer />
+    </div>
   );
 }
 
