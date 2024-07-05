@@ -81,7 +81,7 @@ export const navigation = {
           imageSrc:
             'https://tailwindui.com/img/ecommerce-images/category-page-02-image-card-06.jpg',
           imageAlt:
-            'Three shirts in gray, white, and blue arranged on table with same line drawing of hands and shapes overlapping on front of shirt.',
+            'Three shirts in gray, white, and blue  on table with same line drawing of hands and shapes overlapping on front of shirt.',
         },
       ],
       sections: [
